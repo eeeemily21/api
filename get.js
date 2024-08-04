@@ -1,4 +1,4 @@
-let api = "https://669a52209ba098ed61ff31bc.mockapi.io/Pets";
+let api = "https://669a52209ba098ed61ff31bc.mockapi.io/pets";
 
 const getInfoFromApi = async () => {
     let resp = null
